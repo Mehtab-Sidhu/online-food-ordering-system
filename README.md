@@ -5,11 +5,11 @@ managing all crucial data related to users, restaurants, menus, and orders. The 
 ordering platform. 
 
 This project focuses solely on the database management system aspect of the online food ordering system. The scope encompasses: 
-    • Designing a comprehensive data model to capture all essential entities and their relationships. 
-    • Implementing data normalization techniques to ensure data integrity and minimize redundancy. 
-    • Developing a secure database schema using SQL to define tables, data types, and constraints. 
-    • Utilizing SQL for data manipulation (insert, update, delete) and retrieval (select, join). 
-    • Exploring advanced SQL functionalities like window functions, CTEs, UDFs, and triggers for enhanced data processing. 
-    • Implementing security measures like password hashing and access control. (if applicable)
+• Designing a comprehensive data model to capture all essential entities and their relationships. 
+• Implementing data normalization techniques to ensure data integrity and minimize redundancy. 
+• Developing a secure database schema using SQL to define tables, data types, and constraints. 
+• Utilizing SQL for data manipulation (insert, update, delete) and retrieval (select, join). 
+• Exploring advanced SQL functionalities like window functions, CTEs, UDFs, and triggers for enhanced data processing. 
+• Implementing security measures like password hashing and access control. (if applicable)
 
 The detailed database schema, data models, and SQL functionalities are presented in the PDF report and the SQL source file. 
